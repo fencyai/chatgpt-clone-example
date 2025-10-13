@@ -8,6 +8,9 @@ A React example demonstrating how to build a ChatGPT clone using Fency.ai, Vite 
 npm install
 ```
 
+## Replace Publishable Key
+Replace the `publishableKey` inside `src/main.tsx` with your own key from [https://app.fency.ai](https://app.fency.ai)
+
 ## Run
 
 ```bash
