@@ -13,3 +13,8 @@ npm install
 ```bash
 npm run dev
 ```
+
+
+## Origin Article
+
+[Read the full article on the Fency Blog](https://www.fency.ai/blog/chatgpt-clone)
